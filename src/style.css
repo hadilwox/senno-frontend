@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "./assets/fonts.css";
+
+* {
+  font-family: dana, serif;
+}
