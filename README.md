@@ -1,10 +1,30 @@
-<<<<<<< HEAD
-# senno-frontend
+# Senno Frontend
+
 Senno.ir | 999 یک پلتفرم آموزشی پیشرفته است که به شما کمک می‌کند تا در زندگی شخصی و حرفه‌ای خود به بالاترین سطح موفقیت برسید. ما دوره‌های آموزشی ویژه‌ای در زمینه‌های روانشناسی، موفقیت، بیزینس، فروش، ذهنیت برنده، فرکانس و ارتعاش ارائه می‌دهیم تا شما را در مسیر رشد فردی و مالی هدایت کنیم.
-=======
-# Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 🚀 تکنولوژی‌های مورد استفاده
+این پروژه با استفاده از تکنولوژی‌های زیر ساخته شده است:
+- **Vue 3** (با `<script setup>`)
+- **TypeScript**
+- **Vite**
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
->>>>>>> e49f325 (Initial commit)
+## ⚡ راه‌اندازی پروژه
+برای اجرای پروژه، دستورات زیر را اجرا کنید:
+
+```sh
+# نصب وابستگی‌ها
+yarn install  # یا npm install
+
+# اجرای پروژه در حالت توسعه
+yarn dev  # یا npm run dev
+
+# ساخت خروجی برای تولید
+yarn build  # یا npm run build
+```
+
+## 📌 منابع مفید
+- [مستندات Vue 3](https://vuejs.org/)
+- [مستندات Vite](https://vitejs.dev/)
+- [مستندات TypeScript در Vue](https://vuejs.org/guide/typescript/overview.html)
+
+🚀 **با Senno.ir به سطح جدیدی از موفقیت برسید!**
